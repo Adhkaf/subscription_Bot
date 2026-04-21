@@ -4,7 +4,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Cont
 from recommender.engine import SubscriptionRecommender
 
 
-BOT_TOKEN = os.getenv("Bot_Token")
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 # Initialize recommender
 rec = SubscriptionRecommender(csv_path="data/subscriptions.csv", region="IN")
