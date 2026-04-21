@@ -1,0 +1,34 @@
+name,domain,price_month,price_year,features,regions,rating,url
+Netflix Standard,ott,499,4999,no-ads|hd|movies|series,IN|US|UK,4.5,https://www.netflix.com/
+Netflix Mobile,ott,149,1499,sd|mobile-only|movies|series,IN,4.2,https://www.netflix.com/
+Amazon Prime,ott,299,1499,ott|no-ads|movies|series|music|delivery,IN|US,4.3,https://www.primevideo.com/
+Disney+ Hotstar Premium,ott,299,1499,sports|cricket|no-ads|4k|movies|series,IN,4.4,https://www.hotstar.com/
+Sony LIV Premium,ott,299,999,tv-shows|originals|sports|movies,IN,4.1,https://www.sonyliv.com/
+JioCinema Premium,ott,149,1499,hbo|originals|no-ads|movies|series,IN,4,https://www.jiocinema.com/
+ZEE5 Premium,ott,199,999,movies|series|tv-shows|downloads,IN,4,https://www.zee5.com/
+Voot Select,ott,199,999,tv-shows|originals|movies,IN,3.9,https://www.voot.com/
+Apple TV+,ott,99,999,originals|movies|series|4k,IN|US|UK,4.3,https://tv.apple.com/
+Hulu,ott,799,7999,movies|series|no-ads,US,4.4,https://www.hulu.com/
+Peacock Premium,ott,499,4999,movies|series|sports|tv-shows,US,4.2,https://www.peacocktv.com/
+,,,,,,,
+Spotify Individual,music,119,1189,ad-free|offline|music|lyrics,IN|US|UK,4.7,https://www.spotify.com/
+Spotify Duo,music,149,1490,ad-free|offline|music|2-users,IN,4.6,https://www.spotify.com/
+YouTube Premium,music,139,1390,ad-free|offline|background-play|youtube-music,IN,4.5,https://www.youtube.com/premium
+Apple Music,music,99,999,ad-free|hi-res|offline|spatial-audio,IN|US|UK,4.6,https://www.apple.com/apple-music/
+Gaana Plus,music,99,999,ad-free|music|offline,IN,4,https://gaana.com/
+Wynk Premium,music,49,349,ad-free|offline|music|hello-tunes,IN,4.1,https://wynk.in/
+Amazon Music Unlimited,music,129,1290,ad-free|offline|music|lyrics,IN|US,4.3,https://music.amazon.com/
+Tidal HiFi,music,299,2999,hi-res|offline|music|ad-free,US|UK,4.5,https://tidal.com/
+SoundCloud Go,music,99,999,ad-free|offline|music,IN|US,4.2,https://soundcloud.com/
+Pandora Plus,music,199,1999,ad-free|offline|radio,US,4.1,https://www.pandora.com/
+,,,,,,,
+Canva Pro,tools,499,4999,templates|editor|background-removal|team|brand-kit,IN|US,4.8,https://www.canva.com/
+Adobe Creative Cloud Express,tools,499,4799,designer|templates|branding|social-media|editor,IN|US,4.4,https://www.adobe.com/
+Notion AI,tools,299,2990,notes|ai-writing|tasks|databases,IN|US|UK,4.5,https://notion.so/
+Microsoft 365 Personal,tools,489,4899,office|apps|cloud-storage|outlook|editor,IN|US,4.7,https://www.microsoft.com/
+ChatGPT Plus,tools,1650,20000,ai-chat|coding|writing|reasoning,IN|US,4.6,https://chat.openai.com/
+Figma Professional,tools,900,9000,design|team|collaboration|editor,IN|US|UK,4.7,https://www.figma.com/
+Grammarly Premium,tools,1000,10000,writing|grammar|ai-writing,IN|US|UK,4.6,https://www.grammarly.com/
+Notability,tools,200,2000,notes|pdf|editor,US|UK,4.2,https://notability.com/
+CapCut Pro,tools,299,2999,video-editing|templates|editor,IN|US,4.4,https://www.capcut.com/
+RemoveBG Pro,tools,299,2999,background-removal|editor|design,IN|US,4.3,https://www.remove.bg/
